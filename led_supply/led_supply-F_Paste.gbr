@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*%
-%TF.CreationDate,2024-09-06T02:12:06+09:00*%
-%TF.ProjectId,esp_md3_servo3_sensor3,6573705f-6d64-4335-9f73-6572766f335f,rev?*%
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.5*%
+%TF.CreationDate,2024-09-19T19:13:46+09:00*%
+%TF.ProjectId,led_supply,6c65645f-7375-4707-906c-792e6b696361,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.4) date 2024-09-06 02:12:06*
+G04 Created by KiCad (PCBNEW 8.0.5) date 2024-09-19 19:13:46*
 %MOMM*%
 %LPD*%
 G01*
