@@ -1,11 +1,11 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,8.0.4*%
-%TF.CreationDate,2024-09-06T02:57:47+09:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.5*%
+%TF.CreationDate,2024-09-25T10:39:00+09:00*%
 %TF.ProjectId,nucleo_can_md2_roricon2,6e75636c-656f-45f6-9361-6e5f6d64325f,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Profile,NP*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 8.0.4) date 2024-09-06 02:57:47*
+G04 Created by KiCad (PCBNEW 8.0.5) date 2024-09-25 10:39:00*
 %MOMM*%
 %LPD*%
 G01*
